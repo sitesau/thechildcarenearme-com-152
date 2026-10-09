@@ -1,0 +1,19 @@
+{
+  "wheel_id": 364,
+  "structure": "umbrella",
+  "slug": "thechildcarenearme-com-152",
+  "project": "childcare-centres-brisbane-c4ce2a224d58b0084fe5e417c0af2370f",
+  "parent_t1_ref": "thechildcarenearme.com-003",
+  "node_role": "buffer",
+  "money_target": "thechildcarenearme.com.au",
+  "primary_kw": "childcare centres brisbane",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/childcare-centres-brisbane-c4ce2a224d58b0084fe5e417c0af2370f/",
+  "writeback_nonce": "b2a544e06ba6919f",
+  "links": [
+    {
+      "target_url": "https://childcare-centres-brisbane-7a1174.gitlab.io/",
+      "anchor": "childcare centres brisbane",
+      "rel": "follow"
+    }
+  ]
+}
